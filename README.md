@@ -20,3 +20,7 @@ Entries never contain exact locations. A callsign and a 4-character grid square 
 ## Licence
 
 All data in this repository is licensed under [CC BY 4.0](LICENSE). Contributors agree that their submissions are published under that licence. When you reuse the data, credit "QRM Hunter DB contributors".
+
+## Maintainer
+
+Shaun Scholtz, **ZS6SHZ**. 73!
